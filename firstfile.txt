@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 xddd
+=======
+conflict 1
+>>>>>>> 0b2270aa0be7e2a8fea72c11adc6fe5b76b38caa
